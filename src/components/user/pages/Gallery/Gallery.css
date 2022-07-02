@@ -1,0 +1,28 @@
+.gallery-section{
+    width: 100%;
+    background-color: black;
+    padding: 25px;
+    margin-bottom: 50px;
+}
+.gallery-section .gallery{
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.gallery-section .gallery .image img{
+    width: 100%;
+}
+/* styling for mobile responsiveness */
+@media only screen and (max-width: 768px){
+    .gallery-section{
+    height: auto
+}
+.gallery-section .gallery{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+.gallery-section .gallery .image{
+    height: auto;
+}
+}

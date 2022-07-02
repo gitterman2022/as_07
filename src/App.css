@@ -1,0 +1,6 @@
+.ccolor{
+    color: #724dd7 !important;
+}
+body {
+    background: linear-gradient(to right, #4ff900 0%,#724dd7 100%);
+}

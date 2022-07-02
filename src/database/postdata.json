@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "image":"https://img.freepik.com/free-photo/set-spices-herbs-indian-cuisine-pepper-salt-paprika-basil-top-view_73989-7695.jpg",
+        "title":"You should know about spices are using around the world!",
+        "author":"Rejaul Kabir",
+        "date":"June 25, 2022",
+        "category":"Spice World",
+        "description":"The infographic above shows that, surprisingly, cumin is the most popular spice in the world, and coriander (or cilantro) is the most commonly used herb. In Europe and Africa, garlic is the most common among all dishes considered, and—no surprises here—oregano is common in the Mediterranean regions."
+    },
+    {
+        "id":2,
+        "image":"https://img.freepik.com/free-photo/various-spices-bowls-white-top-view-with-copy-space_96696-224.jpg",
+        "title":"We should stop worrying about future spice industry!",
+        "author":"Ahmed Kibria",
+        "date":"June 25, 2022",
+        "category":"Spice Future",
+        "description":"Changes to attitudes and lifestyles are also shaping the future of the spice industry. As consumers place a greater priority on sustainability and quality, the demand for organic spices is growing. The global market is expected to increase by 5% a year to reach $368m by 2025."
+    },
+    {
+        "id":3,
+        "image":"https://img.freepik.com/free-psd/top-view-spoons-bowls-with-spices_23-2148688483.jpg",
+        "title":"Different types of herbs and spices that keeps you healthy.",
+        "author":"Taher Mamun",
+        "date":"June 24, 2022",
+        "category":"Spice Space",
+        "description":"Spices and herbs are defined as plant derived substances that add flavor to any dish. It is difficult to distinguish between the two. Spices can come from the following plant parts: roots, rhizomes, stems, leaves, bark, flowers, fruits, and seeds. Herbs are typically thought of as non-woody plants."
+    },
+    {
+        "id":4,
+        "image":"https://img.freepik.com/free-photo/cinnamon-sticks-background_158595-6298.jpg",
+        "title":"Use minimal spices in your food to become more healthy.",
+        "author":"Mamun Kabir",
+        "date":"June 24, 2022",
+        "category":"Minimalism",
+        "description":"What is minimal spice? It is usually a blend of paprika, pepper, cumin, cassia, cloves, coriander, cardamom and nutmeg. I love it with lamb but it's also a great way to spice up some simple couscous or rice."
+    },
+    {
+        "id":5,
+        "image":"https://img.freepik.com/free-photo/beautiful-tasty-appetizing-ingredients-spices-red-chilli-pepper-grocery-cooking-healthy-kitchen_1220-1671.jpg",
+        "title":"Learn different technologies using to harvest spice.",
+        "author":"Susmita Sen",
+        "date":"June 23, 2022",
+        "category":"Spice Technology",
+        "description":"The substantial difficulties went up against in the Spice creation sector are environmental change bringing about dry spell/plenty dampness, rise and epidemics of vermin and sicknesses, violation, and competition from other significant spice supplying nations. Taking into explanation these difficulties, there is a need to create front line developments that are up-front, savvy and farmer-friendly."
+    },
+    {
+        "id":6,
+        "image":"https://img.freepik.com/free-photo/red-hot-chilli-peppers-pattern-texture-background-close-up-landscape-backdrop-ofred-hot-chilli_168410-1937.jpg",
+        "title":"You should know technological advancing of spice.",
+        "author":"Diba Sultana Nishi",
+        "date":"June 23, 2022",
+        "category":"Spice Technology",
+        "description":"Spices are vital culinary addendums enhancing organoleptic characteristics of food. In addition, they possess various preservative and antimicrobial properties and also nutritional benefits, which make them an inevitable food accessory. India is the leading exporter of spices with the advanced processing and packaging technology. This review describes the nutritive value of major spices, their role in health and disease, shelf life of spices, microbiological safety of spices, quality control of spices and future perspectives."
+    },
+    {
+        "id":7,
+        "image":"https://img.freepik.com/free-photo/plenty-green-cardamom-spice_219193-21.jpg",
+        "title":"We know a very little about the spice related science!",
+        "author":"Nilambori Dipa",
+        "date":"June 22, 2022",
+        "category":"Spice Science",
+        "description":"Aromatic food substances, which enhance flavour, are classified into spices. Spices are usually dried roots, barks, seeds used whole or crushed, powered. Spices add a glorious touch to food with its flavour and fragrance. Spices add flavour, colour to food and make the food palatable."
+    },
+    {
+        "id":8,
+        "image":"https://img.freepik.com/free-psd/tacos-lettering-cinnamon-frame-mock-up-surrounded-by-spices-herbs_23-2148421065.jpg",
+        "title":"Everyone should learn about spice related technology!",
+        "author":"Turna Tanni",
+        "date":"June 22, 2022",
+        "category":"Spice Technology",
+        "description":"Spices today, command the same respect as in earlier ages. Lot of efforts have been put by the farmers to adapt to the changing conditions and needs. A case study of different spices will reveal the increase in yield and production. Generally spices like chilli, ginger, garlic onion are grown in Maharashtra and like cardamom, cinnamon, clove, black pepper are grown in south India on large scale. Chillis is grown throughout India in over 9 lakh hectares of land."
+    }
+]

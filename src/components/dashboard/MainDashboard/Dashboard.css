@@ -1,0 +1,27 @@
+.dheight{
+    height: 100vh;
+}
+.dashboardNav {
+    background: #000;
+    border-bottom: 1px solid #4ff900 ;
+    padding: 0 20px;
+    height: 10%;
+}
+.dashboardBody {
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    color: #fff;
+    height: 50vh;
+    background: #f0f5f9;
+}
+aside {
+    background: #724dd7;
+    display: flex;
+    align-items: center;
+}
+.bodyContent {
+    color: #000;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}

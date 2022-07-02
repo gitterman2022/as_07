@@ -1,0 +1,30 @@
+[
+    {
+        "category":"Spicy Goal",
+        "numberOfPost":10 
+    },
+    {
+        "category":"Spice Technology",
+        "numberOfPost":16 
+    },
+    {
+        "category":"Spice Science",
+        "numberOfPost":21 
+    },
+    {
+        "category":"Spice Space",
+        "numberOfPost":9 
+    },
+    {
+        "category":"Spice Future",
+        "numberOfPost":7 
+    },
+    {
+        "category":"Minimalism",
+        "numberOfPost": 3
+    },
+    {
+        "category":"Spice World",
+        "numberOfPost":37 
+    }
+]

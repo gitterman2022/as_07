@@ -1,0 +1,42 @@
+.allPosts {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    padding: 50px 0;
+}
+.postCardContainer {
+    margin-bottom: 20px;
+}
+.postCardContainer .postImage {
+    width: 100%;
+}
+.postCategory {
+    border: 1px solid #eee;
+    margin-top: 10px;
+    background: none;
+    color: #fff;
+    padding: 3px 20px;
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.author {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+.author img {
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.authorDes p {
+    margin-bottom: 0;
+    font-size: 13px;
+}
+@media only screen and (max-width: 768px){
+    .allPosts {
+        grid-template-columns: 1fr;
+    }
+}
