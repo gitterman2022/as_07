@@ -8,7 +8,7 @@
     box-shadow: 0 25px 50px -12px rgba(0,0,0,.25);
     max-width: 40%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 30px;
     border-left: 2px solid #5a4fdc;
     border-bottom: 2px solid #5a4fdc;
     border-radius: 4px;
@@ -23,7 +23,7 @@
     display: grid;
 }
 .w-8{
-    width: 80%;
+    width: 100%;
 }
 .tl{
     text-align: left;
@@ -31,6 +31,9 @@
 }
 .pb{
     padding-bottom: 8px;
+}
+.pt{
+    padding-top: 8px;
 }
 .bo{
     border-radius: 4px;
@@ -57,12 +60,32 @@
 }
 .toggleBox{
     color: #fff;
-    position: absolute;
     bottom: 0;
     left: 100px;
     text-align: center;
+    padding-top: 15px;
 }
 .toggleBox p span{
-    color: #f9d400;
+    color: rgb(47, 228, 62);
     cursor: pointer;
+}
+.f-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 80px;
+    color: #fff;
+}
+.f-line{
+    width: 35%;
+    height: 2px;
+    background-color: rgb(133, 129, 129);
+    opacity: 1;
+}
+.black{
+    background-color: #fff !important;
+}
+.black:hover{
+    background-color: #000 !important;
+    color: #fff;
 }

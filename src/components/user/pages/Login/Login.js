@@ -17,43 +17,60 @@ const Login = () => {
   return (
     <div className="loginBody">
             <div className="loginPageCard">
+                <div>
                 <div className="logoDiv">
                     <Logo/>
                 </div>
                 {
                     toggle ? <form className="f-grid" action="">
                         <div className="f-grid w-8 tl">
-                            <label className="pb" htmlFor="">Name:</label><br />
-                            <input className="pb bo" type="text" required=""/>
+                            <label htmlFor="">Name:</label><br />
+                            <input className="pb bo" type="text" required/>
                         </div>
                         <div className="f-grid w-8 tl">
-                        <label className="pb" htmlFor="">Email/Phone:</label><br />
-                            <input className="pb bo" type="text" required=""/>
+                        <label htmlFor="">Email/Phone:</label><br />
+                            <input className="pb bo" type="text" required/>
                         </div>
                         <div className="f-grid w-8 tl">
-                        <label className="pb" htmlFor="">Password:</label><br />
-                            <input className="pb bo" type="Password" required=""/>
+                        <label htmlFor="">Password:</label><br />
+                            <input className="pb bo" type="Password" required/>
                         </div>
                         <Button style={{ width: "100%" }} text="Sign Up" />
                     </form> :
                         <form className="f-grid" action="">
                             <div className="f-grid w-8 tl">
-                            <label className="pb" htmlFor="">Email/Phone:</label><br />
-                                <input className="pb bo" type="text" required=""/>
+                            <label htmlFor="">Email/Phone:</label><br />
+                                <input className="pb bo" type="text" required/>
                             </div>
                             <div className="f-grid w-8 tl">
-                            <label className="pb" htmlFor="">Password:</label><br />
-                                <input className="pb bo" type="Password" required=""/>
+                            <label htmlFor="">Password:</label><br />
+                                <input className="pb bo" type="Password" required/>
                             </div>
-                            <Button  handleLogin={handleLogin}  style={{ width: "100%" }} text="Login" />
+                            <Button handleLogin={handleLogin}  style={{ width: "100%" }} text="Login" />
                         </form>
                 }
                 <div className="toggleBox">
                     {
                         toggle ?
-                            <p>Already have an account?<span onClick={() => setToggle(prev => !prev)}>Please Sign In</span></p> :
-                            <p>Dont't have an account?<span onClick={() => setToggle(prev => !prev)}>Please Sign Up</span></p>
+                            <p>Already have an account?<span onClick={() => setToggle(prev => !prev)}>  Please Sign In</span></p> :
+                            <p>Dont't have an account?<span onClick={() => setToggle(prev => !prev)}>  Please Sign Up</span></p>
                     }
+            </div>
+            <div className="f-flex">
+                    <div className="f-line"></div>
+                    <h2>OR</h2>
+                    <div className="f-line"></div>
+                </div>
+                <div className="f-grid tl">
+                    <button className="btn black">
+                        Continue With Google
+                    </button>
+                </div>
+                <div className="f-grid tl">
+                    <button className="btn black">
+                        Continue With GitHub
+                    </button>
+                </div>
                 </div>
             </div>
         </div>
